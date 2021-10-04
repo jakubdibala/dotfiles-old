@@ -1,0 +1,6 @@
+
+super + space
+	rofi -combi-modi window#drun -show combi -dpi 137
+
+alt + Tab
+	exec ~/scripts/i3-focus-last.py
